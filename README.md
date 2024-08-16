@@ -57,6 +57,12 @@ Eu pretendo seguir esse seguimento de projeto:
     ├── requirements.txt        # Dependências do projeto
     └── .gitignore              # Arquivos e diretórios a serem ignorados pelo Git
 
+# Recursos Adicionais
+
+Repositório [huggingface / transformers](https://github.com/huggingface/transformers?tab=readme-ov-file) GitHub Repository: Repositório oficial da biblioteca Transformers.
+[Hugging](https://huggingface.co/learn/nlp-course/chapter1/2) Face NLP Course: Curso completo de NLP oferecido pela Hugging Face, onde você pode aprender e praticar conceitos importantes utilizando a biblioteca Transformers.
+
+
 # Contribuindo
 Contribuições são bem-vindas! Se você quiser contribuir com este projeto, por favor siga os passos abaixo:
 
